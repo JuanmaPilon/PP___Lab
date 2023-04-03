@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625363101 source:/home/juanma/Escritorio/Programacion/Laboratorio -Final- PP/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
